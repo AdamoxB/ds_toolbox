@@ -1,0 +1,11 @@
+# Core data‑science stack
+streamlit>=1.32
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.22
+
+# Excel support
+openpyxl
